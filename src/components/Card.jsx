@@ -1,7 +1,5 @@
 
-
-const cardFooter = "Not done"
-
+const cardFooter = "Not done!"
 
 function Card(props) {
   const {titleText, description} = props;
