@@ -7,7 +7,7 @@ class CardClassCom extends Component {
                 <h2>{this.props.name}</h2>
                 <h2>{this.props.description}</h2>
             </div>           
-        );
+        )
     }
 }
 
